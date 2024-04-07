@@ -13,7 +13,15 @@
 ## 项目目录
 
 1. Credit Card UI Design - 银行卡 UI 设计  
-   [Youtube](https://www.youtube.com/watch?v=pLwEasHW3_I)
+   Source: [Youtube](https://www.youtube.com/watch?v=pLwEasHW3_I)
+
+## 联系我
+
+- Website: ziwen.xyz
+- Email: ziwensong@gmail.com
+- Wechat: Chosen1am
+
+联系请说明来源和来意
 
 Enjoy coding~
 
